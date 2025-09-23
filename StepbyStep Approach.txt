@@ -1,3 +1,0 @@
-1.Create Sales Datawarhouse
-2.Create Sales Lakehouse
-3.Create Sales Pipeline
