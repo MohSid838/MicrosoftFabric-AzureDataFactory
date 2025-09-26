@@ -1,0 +1,15 @@
+
+1.Create Sales Lakehouse
+2.Create Sales Pipeline (Using Azure DataFactory)
+  1.Delete activity from files of "Sales_Lakehouse"
+  2.copy data from API
+  3.Add notebook for transformation and We can also create dataflow for transformations
+  4.For Transformation- we can create a dataflow as well
+  5.Schedule the pipeline -Daily
+3.Create Sales Datawarhouse
+  1.Create Sales Schema
+  2.Create Dim&Fact tables
+  3.Create StoreProcedure to upload data from Sales_Lakehouse to Datawarehouse(Sales_DWH)
+
+  
+git permalink https://github.com/MohSid838/MicrosoftFabric-AzureDataFactory/tree/86a4f73b32b66deeace85deda3da8e25a128d9c1/1.%20Project%20-%20Sales%20Pipeline
