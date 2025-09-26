@@ -1,4 +1,4 @@
-# 🚀 Sales Analytics Project (Microsoft Fabric + Azure Data Factory)
+# 🚀 Sales Analytics Project (Microsoft Fabric + Azure Data Factory+PowerBI)
 
 This project demonstrates how to build a complete **Sales Data Platform** using **Microsoft Fabric, Azure Data Factory (ADF), Data Warehouse, and Power BI**.
 
